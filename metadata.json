@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Flow Visualizer",
+  "description": "An interactive architecture visualizer that uses Gemini to explain complex traffic flows through Cloud Run, APIs, databases, and AI models.",
+  "requestFramePermissions": []
+}
